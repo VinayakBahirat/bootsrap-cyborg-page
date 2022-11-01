@@ -1,0 +1,101 @@
+.nav-width {
+    width: 1270px;
+    margin-top: 10px;
+}
+.cybong-icon {
+    width: 200px;
+    height: 50px;
+}
+.body {
+    background-color: #222225;
+}
+.profile-image {
+    width: 30px;
+}
+.profile_button {
+    width: 0%;
+}
+.search-icon {
+    width: 20px;
+}
+.padding-60 {
+    padding: 48px;
+    background-color: #27292a;
+}
+.main-background-image {
+    background-image: url('../../image/background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+    border-radius: 20px;
+    margin-bottom: 60px;
+    height: 400px;
+    width: 100%;
+}
+.main-div {
+    width: 100%;
+    height: 400px;
+}
+
+.bg-color {
+    background-color: #1f2122;
+}
+.bg-ligh-color {
+    background-color: #27292a;
+}
+.h1-font-size {
+    font-family: "poppins",sans-serif;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 41px;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+.section-2-image-list {
+    width: 215px;
+    height: 175px;
+}
+.star-icon {
+    width: 20px;
+    height: 20px;
+}
+.button-bg {
+    background-color:  #ec6090;
+}
+.margin-button {
+    margin-left: 40%;
+    margin-bottom: -100%;
+}
+.text-pink {
+    color: #ec6090;
+} 
+.header-text-color {
+    color: #da5e8d;
+}
+
+.profile:hover {
+    background-color: #da5e8d;
+    color: #fff;
+}
+.button:hover {
+    background-color: #fff;
+}
+.text:hover {
+    color: #da5e8d;
+}
+.button-border-color {
+    border-color: #da5e8d;
+    color: #da5e8d;
+}
+.bg-image {
+    font-weight: 600;
+}
+.bg-hedding {
+    font-size: 40px;
+    font-weight:800;
+    line-height: 60px;
+}
+.float-clear {
+    clear: both;
+}

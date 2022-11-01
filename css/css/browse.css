@@ -1,0 +1,109 @@
+.nav-width {
+    width: 1270px;
+    margin-top: 10px;
+}
+.cybong-icon {
+    width: 200px;
+    height: 50px;
+}
+.body {
+    background-color: #222225;
+}
+.profile-image {
+    width: 30px;
+}
+.profile_button {
+    width: 0%;
+}
+.search-icon {
+    width: 20px;
+}
+.padding-60 {
+    padding: 60px 48px;
+    background-color: #27292a;
+}
+.bg-color {
+    background-color: #1f2122;
+}
+.bg-ligh-color {
+    background-color: #27292a;
+}
+.header-text-color {
+    color: #da5e8d;
+}
+.section-1-left-side-div-width {
+    width: 67%;
+    background-color: #1f2122;
+    display: inline-block;
+}
+.section-1-right-side-div-width {
+    width: 30%;
+    background-color:  #1f2122;
+    display: inline-block;
+    margin-left: 25px;
+    
+}
+.h1-font-size {
+    font-family: "poppins",sans-serif;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 41px;
+}
+.text-pink {
+    color: #ec6090;
+} 
+.main-div-width {
+    width: 1170px;
+}
+.section-1-left-side-images-width {
+    width: 200px;
+    height: 300px;
+}
+.iamge-div-width {
+    width: 10%;
+}
+.section-1-grey-text {
+    font-size: 15px;
+}
+.star-and-download-icon {
+    padding-right: 3px;
+}
+.download_icon-div-bg-color {
+    background-color: #27292a;
+    width: 5%;
+    height: 5%;
+}
+.section-1-right-side-bottom-pink-text {
+    font-size: 16px;
+    font-weight: 600;
+    color: #ec6090;  
+}
+.section-2-info {
+    width: 30%;
+    font-size: 15px;
+    line-height: 25px;
+}
+.section-2-button {
+    width: 10%;
+    
+}
+.button-bg {
+    background-color:  #ec6090;
+}
+.last-section-white-font-size {
+    font-size: 22px;
+    font-weight: 700;
+}
+.last-section-button {
+    margin-bottom: -30px;
+}
+.profile:hover {
+    background-color: #da5e8d;
+    color: #fff;
+}
+.button:hover {
+    background-color: #fff;
+}
+.text:hover {
+    color: #da5e8d;
+}
