@@ -1,7 +1,4 @@
-.nav-width {
-    width: 1270px;
-    margin-top: 10px;
-}
+
 .cybong-icon {
     width: 200px;
     height: 50px;
@@ -32,9 +29,12 @@
     padding: 48px 48px;
     background-color: #27292a;
 }
-.section-1-div-left-side {
-    width: 760px;
-    display:inline-block;
+@media screen and (min-width: 999px) {
+    
+    .section-1-div-left-side {
+        width: 760px;
+        display:inline-block;
+    }
 }
 .sectiom-1-div-right-side {
     width: 350px;
@@ -44,7 +44,7 @@
 .text-pink {
     color: #ec6090;
 }
-.image-width {
+.image-width-div {
     width: 240px;
 }
 .bg-ligh-color {
@@ -81,4 +81,46 @@
 .button:hover {
     background-color: #fff;
     color: #ec6090;
+}
+.search-icon {
+    width: 20px;
+    left: 15px;
+    top: 10px;
+}
+.image-width {
+    width: 100%;
+}
+
+.star-icon {
+    width: 20px;
+}
+.h1-font-size-moblie {
+    font-family: "poppins",sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+}
+@media screen and (min-width:999px) {
+    .h1-font-size {
+        font-family: "poppins",sans-serif;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 41px;
+    }
+}
+.list-profile-image {
+    width: 40px;
+}
+.image-haight {
+    height: 210px;
+    width: 210px;
+}
+.copyright-text{
+    font-size: 11px;
+}
+
+@media screen and (min-width: 999px) {
+    .copyright-text{
+        font-size: 16px;
+    }
 }

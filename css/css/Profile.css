@@ -1,11 +1,5 @@
-.nav-width {
-    width: 1270px;
-    margin-top: 10px;
-}
-.cybong-icon {
-    width: 200px;
-    height: 50px;
-}
+
+
 .body {
     background-color: #222225;
 }
@@ -36,12 +30,7 @@
 .bg-button-color {
     background-color: #da5e8d;
  }
-.h1-font-size {
-    font-family: "poppins",sans-serif;
-    font-weight: 700;
-    font-size: 30px;
-    line-height: 45px;
-}
+
 .section-1-paragran-font {
     font-size: 16px;
     line-height: 32px;
@@ -84,6 +73,46 @@
     background-color: #fff;
     color: #ec6090;
 }
+.button-bg {
+    background-color: #da5e8d;
+}
 .bg-image-hedding {
     font-weight: 500;
+}
+.search-icon {
+    width: 20px;
+    left: 15px;
+    top: 10px;
+}
+@media screen and (min-width: 999px) {
+    .copyright-text{
+        font-size: 16px;
+    }
+}
+
+@media screen  and (min-width:999px){
+    .last-section-white-font-size {
+        font-size: 22px;
+        font-weight: 700;
+    }
+}
+.h1-font-size-moblie {
+    font-family: "poppins",sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 30px;
+}
+@media screen and (min-width:999px) {
+    .h1-font-size {
+        font-family: "poppins",sans-serif;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 41px;
+    }
+}
+.image-width {
+    width: 100%;
+}
+.section-3-image-width {
+    width: 100px;
 }

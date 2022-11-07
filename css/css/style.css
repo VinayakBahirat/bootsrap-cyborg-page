@@ -1,13 +1,11 @@
-.nav-width {
-    width: 1270px;
-    margin-top: 10px;
-}
+
 .cybong-icon {
     width: 200px;
-    height: 50px;
+    height: auto;
 }
 .body {
     background-color: #222225;
+    font-family: "poppins",sans-serif;
 }
 .profile-image {
     width: 30px;
@@ -17,6 +15,8 @@
 }
 .search-icon {
     width: 20px;
+    left: 15px;
+    top: 10px;
 }
 .padding-60 {
     padding: 48px;
@@ -42,20 +42,12 @@
 .bg-ligh-color {
     background-color: #27292a;
 }
-.h1-font-size {
-    font-family: "poppins",sans-serif;
-    font-weight: 700;
-    font-size: 34px;
-    line-height: 41px;
-}
+
 
 .display-inline-block {
     display: inline-block;
 }
-.section-2-image-list {
-    width: 215px;
-    height: 175px;
-}
+
 .star-icon {
     width: 20px;
     height: 20px;
@@ -63,10 +55,7 @@
 .button-bg {
     background-color:  #ec6090;
 }
-.margin-button {
-    margin-left: 40%;
-    margin-bottom: -100%;
-}
+
 .text-pink {
     color: #ec6090;
 } 
@@ -92,10 +81,58 @@
     font-weight: 600;
 }
 .bg-hedding {
-    font-size: 40px;
-    font-weight:800;
-    line-height: 60px;
+        font-size: 40px;
+        font-weight:800;
+        line-height: 60px;
 }
+
 .float-clear {
     clear: both;
+}
+
+.section-3-image-width {
+    width: 100px;
+}
+
+.hedding {
+    font-size: 10px;
+    font-family: "poppins",sans-serif;
+    font-weight: 700;
+    line-height: 30px;
+}
+@media screen and (min-width:999px) {
+    .hedding {
+        font-family: "poppins",sans-serif;
+        font-weight: 800;
+        font-size: 38px;
+        line-height: 41px;
+    }
+}
+
+@media screen and (min-width:999px) {
+    .h1-font-size {
+        font-family: "poppins",sans-serif;
+        font-weight: 700;
+        font-size: 34px;
+        line-height: 41px;
+    }
+}
+.copyright-text{
+    font-size: 11px;
+}
+
+@media screen and (min-width: 999px) {
+    .copyright-text{
+        font-size: 16px;
+    }
+}
+.sub-hedding {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 35px;
+}
+@media screen and (min-width: 999px) {
+    .button-margin {
+        margin-bottom: -200px;
+    }
 }
